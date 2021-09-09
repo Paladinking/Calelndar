@@ -1,0 +1,14 @@
+Hello!
+This is a very important message. It contains some information you cannot get elsewhere. I do not know if I can come up with something to write, but I will certainly try.
+Now then.
+You are on a spaceship I think? You can see the earth, and blow it upp with explosions. Nothing else for now. I am working on it though.
+This is the emd of paragraph 1.
+Just kidding! This was not nearly enough text, I need to fill the whole box in order to see if it works. The panel should become scrollable. I don't think I will use this feature, but still.
+It is very nice to be able to write here and not in a String literal.
+Soon this should be enough, I hope. Someone is making coffee in the background.
+Now It is really over?
+I don't think so, ha ha ha ha ha!!!
+One last sentence just to make things look nice.
+<>
+And this is the beginning of paragraph 2! Very cool right?
+<>
